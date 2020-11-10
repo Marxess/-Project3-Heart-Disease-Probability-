@@ -11,5 +11,5 @@ Heart failure is a common event caused by CVDs and this dataset contains 12 feat
 6) Serum creatinine 
 7) Smoking
 
-Dataset sources: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
-API: https://www.ine.es
+Dataset source: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data;
+API source: https://www.ine.es
