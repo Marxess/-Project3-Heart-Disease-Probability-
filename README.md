@@ -11,5 +11,7 @@ Heart failure is a common event caused by CVDs and this dataset contains 12 feat
 6) Serum creatinine 
 7) Smoking
 
+After having analyzed the above mentioned health features, I will focus on Spain's cause of death statistics to confirm wether heart diseases are as common as they are worlwide. 
+
 Dataset source: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data;
 API source: https://www.ine.es
